@@ -13,7 +13,7 @@ The [Older](https://github.com/lordofwizard/minecraft_server) version is still r
 * Activate a [Google Cloud Shell](https://console.cloud.google.com/) on Google cloud.
 * Clone the following repository with the below command..
 ```
-git clone https://github.com/lordofwizard/mcserver
+git clone https://github.com/iephdevs/mcserver
 ```
 * Go inside the mcserver directory
 ```
